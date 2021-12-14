@@ -1,6 +1,6 @@
 {
-	"ip":"example.aternos.me",
+	"ip":"rpgdoguerra.aternos.me",
 	"port": "25565",
-	"name": "NRBot",
+	"name": "MyBot",
 	"auto-night-skip":"false"
 }
